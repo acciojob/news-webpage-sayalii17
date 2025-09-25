@@ -6,10 +6,10 @@ body{
 	display: flex;
 }
 .header{
-	background-color: #011e29;
-	color: white;
 	text-align: center;
+	background-color: #011e29;
 	padding: 20px;
+	color: white;
 }
 .main{
 	text-align: center;
